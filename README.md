@@ -1,10 +1,10 @@
 # Laravel (PWA) Progressive Web Aplication 
 
 [![Laravel 5.x](https://img.shields.io/badge/Laravel-5.x-orange.svg)](http://laravel.com)
-[![Latest Stable Version](https://poser.pugx.org/silviolleite/laravelpwa/v/stable)](https://packagist.org/packages/silviolleite/laravelpwa)
-[![Latest Unstable Version](https://poser.pugx.org/silviolleite/laravelpwa/v/unstable.svg)](https://packagist.org/packages/silviolleite/laravelpwa)
-[![Total Downloads](https://poser.pugx.org/silviolleite/laravelpwa/downloads.png)](https://packagist.org/packages/silviolleite/laravelpwa)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages//silviolleite/laravelpwa)
+[![Latest Stable Version](https://poser.pugx.org/googleshokry/laravelpwa/v/stable)](https://packagist.org/packages/googleshokry/laravelpwa)
+[![Latest Unstable Version](https://poser.pugx.org/googleshokry/laravelpwa/v/unstable.svg)](https://packagist.org/packages/googleshokry/laravelpwa)
+[![Total Downloads](https://poser.pugx.org/googleshokry/laravelpwa/downloads.png)](https://packagist.org/packages/googleshokry/laravelpwa)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://packagist.org/packages//googleshokry/laravelpwa)
 
 This Laravel pakage turns your project into a [progressive web app](https://developers.google.com/web/progressive-web-apps/).  Navigating to your site on an Android phone will prompt you to add the app to your home screen.
 
@@ -21,14 +21,14 @@ Add the following to your `composer.json` file :
 
 ```json
 "require": {
-    "silviolleite/laravelpwa": "^1.0.0",
+    "googleshokry/laravelpwa": "^1.0.0",
 },
 ```
 
 or execute
 
 ```bash
-composer require silviolleite/laravelpwa
+composer require googleshokry/laravelpwa
 ```
 
 ### Publish
@@ -188,4 +188,4 @@ To customize update this file.
  
 ## Contributing
 
-Contributing is easy! Just fork the repo, make your changes then send a pull request on GitHub. If your PR is languishing in the queue and nothing seems to be happening, then send Silvio an [email](mailto:silviolleite@gmail.com).
+Contributing is easy! Just fork the repo, make your changes then send a pull request on GitHub. If your PR is languishing in the queue and nothing seems to be happening, then send googleshokry an [email](mailto:sms.shokry.mohamed@gmail.com).
